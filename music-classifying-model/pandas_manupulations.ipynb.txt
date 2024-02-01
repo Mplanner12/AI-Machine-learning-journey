@@ -1,1 +1,23 @@
 // This file contain some basic to advance pandas logics
+
+import pandas as pd
+
+df = pd.read_csv('music.csv')
+
+// to view the data
+df 
+
+// to view first few part of the data
+df.head() 
+
+// to view last few part of the data
+df.tail() 
+
+// to view a brief description of the data
+df.describe()
+
+// to drop some part the data and save it in a variable
+new_df = df.drop('column headed') 
+
+// to save some part the data in a variable
+new_df = df.drop['column header'] 
