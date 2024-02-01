@@ -1,1 +1,4 @@
 // check out this youtube video from mosh hamaedani to learn the basics of python 
+
+// short video: https://youtu.be/kqtD5dpn9C8?feature=shared 
+// long 6 hours: https://youtu.be/_uQrJ0TkZlc?feature=shared
